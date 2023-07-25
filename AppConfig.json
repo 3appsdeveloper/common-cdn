@@ -1,0 +1,17 @@
+[
+    {
+        "appName": "vlb",
+        "config": {
+            "vlbUrl": "https://www.tsbcl.telangana.gov.in/ts/index.php/site/shvalidate",
+            "liquorPriceUrl": "https://cdn.jsdelivr.net/gh/3appsdeveloper/common-cdn/TS-Liquor-Price-List.json",
+            "winePriceUrl": "https://cdn.jsdelivr.net/gh/3appsdeveloper/common-cdn/TS-Wine-Price-List.json",
+            "beerPriceUrl": "https://cdn.jsdelivr.net/gh/3appsdeveloper/common-cdn/TS-Beer-Price-List.json",
+            "isAppAlert": true,
+            "appAlertNotification": "Telangana State Government has blocked the public access to verify liquor bottle. We are working on it. But, you can verify updated liquor prices",
+            "disableVlbScanFeature": false,
+            "disableVlbManualFeature": false,
+            "disablePriceCheckFeature": false,
+            "disableAds": false
+        }
+    }
+]
