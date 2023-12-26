@@ -11,7 +11,9 @@
             "disableVlbScanFeature": false,
             "disableVlbManualFeature": false,
             "disablePriceCheckFeature": false,
-            "disableAds": false
+            "disableAds": false,
+            "disableAd1": false,
+            "disableAd2": false
         }
     }
 ]
